@@ -1,6 +1,6 @@
 Ahmed Mostafa Maklad 👋
 .NET Developer
-strong foundation from an ITI Intensive training program. Experienced in developing applications using .NET Core, with a solid grasp of SOLID principles and Object-Oriented Programming (OOP). Completed comprehensive training in Software Fundamentals and .NET, enhancing my problem-solving and collaborative skills. Actively engages in discussions and contributes ideas.
+Strong foundation from an ITI Intensive training program. Experienced in developing applications using .NET Core, with a solid grasp of SOLID principles and Object-Oriented Programming (OOP). Completed comprehensive training in Software Fundamentals and .NET, enhancing my problem-solving and collaborative skills. Actively engages in discussions and contributes ideas.
 
 🚀 About Me
 🌍 Based in Egypt
